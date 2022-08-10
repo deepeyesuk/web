@@ -1,0 +1,16 @@
+{
+  "url": "https://www.deepeyes.co.uk",
+  "title": "Deepeyes Website",
+  "email": "app@deepeyes.co.uk",
+  "address": "New Road, London, United Kingdom, E4 9EZ",
+  "phone": "07777123456",
+  "sections": {
+    "hero": {
+      "actionTitle": "Your feedback",
+      "actionMessage": "Visit our services",
+      "tagline1": "Build projects,",
+      "tagline2": "simply and easily in digitalisation",
+      "sectionMessage": "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui Lorem cupidatat commodo. Elitsunt amet fugiat veniam occaecat fugiat."
+    }
+  }
+}

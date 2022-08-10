@@ -1,0 +1,34 @@
+[
+  {
+    "name": "IBM",
+    "logo": "ibm.png"
+  },
+  {
+    "name": "VMWare",
+    "logo": "vmware.png"
+  },
+  {
+    "name": "VEEAM",
+    "logo": "veeam.png"
+  },
+  {
+    "name": "CISCO",
+    "logo": "cisco.png"
+  },
+  {
+    "name": "RUCKUS",
+    "logo": "ruckus.png"
+  },
+  {
+    "name": "Hewlett PAckard",
+    "logo": "hewlett_packard.png"
+  },
+  {
+    "name": "Microsoft",
+    "logo": "microsoft.png"
+  },
+  {
+    "name": "Apple",
+    "logo": "apple.png"
+  }
+]

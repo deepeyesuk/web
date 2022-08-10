@@ -1,0 +1,61 @@
+{
+  "title": "Footer",
+  "copyright": "@2022 Deepeyes Limited, All rights reserved.",
+  "sitemap": {
+    "mobile": {
+      "icon": "MenuIcon"
+    },
+    "company": {
+      "title": "Company",
+      "menu": [
+        { "name": "About", "href": "/about", "enabled": true },
+        { "name": "Blog", "href": "/blog", "enabled": false },
+        { "name": "Jobs", "href": "/jobs", "enabled": false },
+        { "name": "Press", "href": "/press", "enabled": false },
+        { "name": "Partners", "href": "/partners", "enabled": false }
+      ]
+    },
+    "solutions": {
+      "title": "Solutions"
+    },
+    "support": {
+      "title": "support",
+      "menu": [
+        { "name": "Pricing", "href": "/pricing", "enabled": true },
+        { "name": "Documentation", "href": "/documentation", "enabled": true },
+        { "name": "Guides", "href": "guides", "enabled": true },
+        { "name": "API Status", "href": "apis", "enabled": true }
+      ]
+    },
+    "legal": {
+      "title": "legal",
+      "menu": [
+        { "name": "Ethical Policy", "href": "/ethical-policy" },
+        { "name": "Privacy Statement", "href": "/privacy-policy" },
+        { "name": "Terms & Conditions", "href": "/terms-conditions" }
+      ]
+    },
+    "socials": [
+      {
+        "name": "Facebook",
+        "href": "https://www.facebook.com/sekyee173",
+        "icon": "faFacebookSquare"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://www.linkedin.com/company/8266500/admin/hashtag/sekyee/",
+        "icon": "faLinkedin"
+      },
+      {
+        "name": "Twitter",
+        "href": "https://twitter.com/Sekyee_info",
+        "icon": "faTwitterSquare"
+      },
+      {
+        "name": "Email",
+        "href": "mailto:app@deepeyes.co.uk",
+        "icon": "faEnvelope"
+      }
+    ]
+  }
+}

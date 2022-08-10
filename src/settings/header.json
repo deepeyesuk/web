@@ -1,0 +1,33 @@
+{
+  "title": "Header",
+  "menus": {
+    "mobile": {
+      "icon": "MenuIcon"
+    },
+    "home": {
+      "name": "Home",
+      "path": "home",
+      "icon": "HomeIcon"
+    },
+    "about": {
+      "name": "About",
+      "path": "about",
+      "icon": "HeartIcon"
+    },
+    "service": {
+      "name": "Service",
+      "path": "service",
+      "icon": "ViewGridIcon"
+    },
+    "contact": {
+      "name": "Contact",
+      "path": "contact",
+      "icon": "InboxIcon"
+    },
+    "signin": {
+      "name": "Sign In",
+      "path": "signin",
+      "icon": "UserCircleIcon"
+    }
+  }
+}

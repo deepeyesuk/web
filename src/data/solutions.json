@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Project Services",
+    "description": "Since 1998 we have successfully delivered a wide range of ICT services to our clients in The City which centre around  business change and transformation , enterprise, technical and solution architecture, application development and maintenance, infrastructure management, build and design, managed security services, testing, integration, hosting, database design, development and support and desktop managed services.",
+    "to": "project-services",
+    "icon": "PuzzleIcon"
+  },
+  {
+    "name": "Disaster Recovery",
+    "description": "Delivering IT resilience with Continuous Data Protection and Disaster Recovery Managed Recovery Solutions for business continuity and peace of mind backed up by our private network and supported by our helpdesk.",
+    "to": "disaster-recovery",
+    "icon": "SparklesIcon"
+  },
+  {
+    "name": "Trading Systems",
+    "description": "Designed to give market professionals the flexibility to interact, collaborate and trade securely - and with greater compliance - via multiple communication channels, across their enterprise and with their clients and counterparties.",
+    "to": "trading-systems",
+    "icon": "ScaleIcon"
+  },
+  {
+    "name": "Telephony",
+    "description": "Business Telephony Solutions designed to meet your specific requirements - whether onsite or in the cloud, we have the solution for you.",
+    "to": "telephony",
+    "icon": "PhoneIncomingIcon"
+  },
+  {
+    "name": "Cloud Services",
+    "description": "We provide a choice of cloud platforms and solutions to help your business streamline operations, manage complex tasks, boost your IT budget and gain that business advantage.",
+    "to": "cloud-services",
+    "icon": "CloudIcon"
+  },
+  {
+    "name": "ICT Maintenance",
+    "description": "Our solutions cover a wide range of maintenance support. The support models we offer are designed to meet your expectations and are aimed to meet  a comprehensive and highly efficient post-implementation care for your business assets and deployed ICT products.",
+    "to": "ict-maintenance",
+    "icon": "SupportIcon"
+  }
+]
