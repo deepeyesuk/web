@@ -4,6 +4,29 @@ import solutions from '../data/solutions.json'
 import settings from '../settings/footer.json'
 import { getFAIcon } from '../utils/Icons'
 
+import Push from 'push.js'
+
+const handlePushNotification = () => {
+  const promise = Push.create('Test Notify', {
+    body: "How's it hangin'?",
+    timeout: 4000,
+    onClick: function () {
+      window.focus()
+    }
+  })
+
+  console.log('>><<<>><< : ', promise)
+  promise.then(function (notification) {
+    notification.close()
+  })
+
+  Push.clear
+}
+
+const fireLazyNotification = () => {
+  setTimeout(() => handlePushNotification(), 1000)
+}
+
 const Footer = () => {
   return(
     <footer className="bg-custom-background-light" aria-labelledby="footer-heading">
@@ -108,6 +131,7 @@ const Footer = () => {
           </div>
           <p className="mt-8 text-base text-custom-body-light md:mt-0 md:order-1">
             {settings.copyright}
+            <button onClick={() => fireLazyNotification()} >Test Btn</button>
           </p>
         </div>
       </div>

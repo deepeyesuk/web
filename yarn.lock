@@ -11305,6 +11305,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"push.js@npm:^1.0.12":
+  version: 1.0.12
+  resolution: "push.js@npm:1.0.12"
+  checksum: b793606541e550020067098b798bf983f472612c7960ec2e8b407f6d1c3772c99891b987e6798f6be6933e40eaeeb2d94905fb2a2c444d718d0fd142165d3d23
+  languageName: node
+  linkType: hard
+
 "qs@npm:6.9.6":
   version: 6.9.6
   resolution: "qs@npm:6.9.6"
@@ -12332,6 +12339,7 @@ __metadata:
     gatsby-plugin-typescript: ^4.4.0
     mustache: ^4.2.0
     postcss: ^8.4.5
+    push.js: ^1.0.12
     react: ^17.0.2
     react-dom: ^17.0.2
     react-toast-notifications: ^2.5.1

@@ -34,7 +34,6 @@ import Footer from '../components/Footer'
 import Features from '../data/features.json'
 import HeroSection from '../components/HeroSection'
 
-
 const Home = (props: any) => {
 
   return (
